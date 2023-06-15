@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AddictsClock</string>
+    <string name="level0">Level0</string>
+    <string name="level1">Level1</string>
+    <string name="level2">Level2</string>
+</resources>
